@@ -1,2 +1,2 @@
 # react
-This is my journey of learning react
+This is the first react project
